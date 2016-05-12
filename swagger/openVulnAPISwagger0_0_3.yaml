@@ -138,7 +138,7 @@ paths:
         Used to obtain all security advisories that have were orginally published
         in a specific year `YYYY`.
       parameters:
-        - name: 
+        - name: number
           in: query
           description: The four digit year.
           required: true
